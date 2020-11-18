@@ -32,6 +32,9 @@ Concepts to enclose the user and not consider the aerodynamics of a human body.
 
 ## Lift Generation
 * Keywords: compound helicopter,
+* Sources: http://etd.fcla.edu/CF/CFE0006138/AutogyroDynamicsR.pdf (Autogyro equations), 
+ http://naca.central.cranfield.ac.uk/reports/arc/rm/1111.pdf (Glauert basis of autogyro theory cl_max
+=0.6)
 
 Concerns how lift will be generated, exactly
 
