@@ -1,0 +1,10 @@
+\chapter{Aerodynamics}
+During the course of the midterm phase of the project, the aerodynamics department mainly focuses on advising the other departments quantitatively about configurations and design decisions, as most of the design options for aerodynamics have a direct influence on other subsystems. The department also worked on a first order drag estimation tool for the initial analyses of the concepts. The working principles of this tool are described here, as well as the verification and validation strategy for it. Other tools that are expected to be needed are also considered together with verification and validation strategies to accompany them.\\
+
+\section{Design Option Considerations}
+
+\section{Drag Estimation Tool}
+For performance calcultions, an important factor is the aerodynamic drag of the system. This section describes a tool used to make a first estimation of this parameter. This tool is also intended to be further expanded in later stages of this project to gain more insight on the aerodynamics of the system.\par
+Since this is a first order estimation, this tool does not make use of flow simulation. It is chosen to use a simple set of geometries, for which the aerodynamic drag is well known and defined, such as spheres, cylinders, cuboids and flat plates. The interaction between these parts is only simulated in a limited capacity by an estimation of how much the flow slows down around these parts.
+
+The tool uses simple geometries, such as cuboids, spheres, cylinders and flat plate disks to get to a first order drag estimation. For each of these geometries, the drag coefficients are found in literature on wind tunnel experiments \cite{CuboidFlow}\cite{SphereFlow}\cite{CylinderFlow}\cite{FlatPlateFlow}.
