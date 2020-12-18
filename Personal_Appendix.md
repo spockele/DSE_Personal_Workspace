@@ -12,12 +12,14 @@
  leaders will emerge.
 
 # Learning Objectives
-* Having gotten used to taking the lead in projects, even though that is not my desire. I want to
- learn to actually work in a non-leading role for a change. This mainly involves learning to not
- pull the trigger on final decisions and not putting myself in a position where I have to take
- the lead.\
+* Since I got used to having to take the lead in projects, I want to learn to actually work in 
+ a non-leading role for a change. This mainly involves learning to not pull the trigger on 
+ final decisions and not overstepping someone else's leadership.\
 * Another learning goal of mine is to actually learn how to apply systems engineering elements in
  an actual project. It used to be very theoretical during the systems engineering courses, so
  getting some practical experience is a personal objective of mine.\
 * Since this project will be in a hybrid between working from home and from 'office', this is a
  great opportunity to learn how to work in this type of setting, instead of working only in person.
+* Since verification and validation is a part of the process, I want to learn how to properly apply this.
+ I have not yet had a good experience with this aspect of design. I want to work on aerodynamics,
+ so this would be a good opportunity to try and achieve this.
