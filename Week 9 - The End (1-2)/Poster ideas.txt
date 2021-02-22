@@ -1,0 +1,4 @@
+Battery ...kWh
+Motors ...kW
+Luggage 10kg
+Impact Protection
